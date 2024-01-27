@@ -4,7 +4,7 @@ const projects = [
     name: 'Website to book appointments with counselors',
     image: '10.png',
     desc: 'This website is made using laravel and vue.js in arabic for booking with professional consultants in all fields, with the possibility of paying in different ways.',
-    link: 'https://roznamah.sa/',
+    link: 'https://estidam.sa/',
     hasGallary: false
   },
   {
