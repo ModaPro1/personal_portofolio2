@@ -10,7 +10,7 @@ const mode = inject('mode')
     <div class="container">
       <MainTitle title="About Me" icon="fa fa-user" class="mb-4" :style="mode == 'dark' && {color: 'rgb(255 255 255 / 85%)'}" />
       <div class="box rounded-3 p-3 d-flex gap-5 align-items-start border shadow">
-        <img src="../assets/me.png" width="300" height="300" alt="About Image" class="rounded-3">
+        <img src="../assets/me2.png" width="300" height="300" alt="About Image" class="rounded-3">
         <div class="info mt-1">
           <div class="mb-0 fw-bold name h4" data-aos="fade-down">Mahmoud Ahmed</div>
           <p class="mt-0 stack" data-aos-delay="100" data-aos="fade-down">Full-stack Web Developer</p>

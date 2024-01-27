@@ -1,5 +1,13 @@
 const projects = [
   {
+    id: 10,
+    name: 'Website to book appointments with counselors',
+    image: '10.png',
+    desc: 'This website is made using laravel and vue.js in arabic for booking with professional consultants in all fields, with the possibility of paying in different ways.',
+    link: 'https://roznamah.sa/',
+    hasGallary: false
+  },
+  {
     id: 9,
     name: 'Website for booking co-working spaces',
     image: '9.png',
